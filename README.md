@@ -89,8 +89,6 @@ After a lot of experiences the elastic net model of Scikit learn is the best mod
 4. **Data analysis and visualization.**
 
 
-    ![All](images/all.png "all")
-
 
 
     1. How does ram is affected by price ?
